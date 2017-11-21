@@ -8,7 +8,7 @@ using namespace std;
 int c;// Variabile contatore
 	do{
           cout<<c++<<endl;
-	}while(c<=10)
+	}while(c<=9)
    system("PAUSE");
    return 0;
 }
