@@ -1,5 +1,5 @@
 /*
-  ciclo while da 1 a 10 
+  ciclo while da 1 a  10 
 */
 #include<iostream>
 using namespace std;
