@@ -1,11 +1,11 @@
 /*
-  Ciclo while da 1 a 10 
+  ciclo while da 1 a 10 
 */
 #include<iostream>
 using namespace std;
   void main()
 {
-int c;// variabile contatore
+int c;// Variabile contatore
 	do{
           cout<<c++<<endl;
 	}while(c<=10)
